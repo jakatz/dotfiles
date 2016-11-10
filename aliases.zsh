@@ -8,3 +8,4 @@ alias weather="curl -4 http://wttr.in"
 alias dotfiles="cd $DOTFILES"
 alias library="cd $HOME/Library"
 alias sites="cd $HOME/Sites"
+
