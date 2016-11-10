@@ -37,3 +37,11 @@ ehthumbs.db
 Thumbs.db
 .idea/
 .vagrant/
+
+# Application Specific files #
+##############################
+node_modules
+tmp/
+temp/
+npm-debug.log
+bower_components

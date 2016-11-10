@@ -1,0 +1,67 @@
+{
+  "atomic_save": false,
+  "caret_extra_bottom": 3,
+  "caret_extra_top": 3,
+  "caret_extra_width": 2,
+  "caret_style": "phase",
+  // "color_scheme": "Packages/Neon Color Scheme/Neon.tmTheme",
+  "command": "close_all",
+  "default_encoding": "UTF-8",
+  "default_line_ending": "unix",
+  "detect_indentation": false,
+  "ensure_newline_at_eof_on_save": false,
+  "file_exclude_patterns":
+  [
+    ".DS_Store",
+    "Desktop.ini",
+    "*.pyc",
+    "._*",
+    "Thumbs.db",
+    ".Spotlight-V100",
+    ".Trashes"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git",
+    ".bundle",
+    ".svn",
+    "node_modules"
+  ],
+  "font_face": "Source Code Pro Light",
+  "font_size": 14,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "indent_guide_options":
+  [
+    "draw_active",
+    "draw_normal"
+  ],
+  "keys":
+  [
+    "super+shift+w"
+  ],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "match_brackets": true,
+  "match_brackets_angle": true,
+  "match_brackets_braces": true,
+  "match_brackets_content": true,
+  "match_brackets_square": true,
+  "overlay_scroll_bars": "enabled",
+  "remember_open_files": false,
+  "rulers":
+  [
+    100
+  ],
+  "show_encoding": true,
+  "show_line_endings": true,
+  "tab_size": 2,
+  // "theme": "Seti.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "tree_animation_enabled": true,
+  "trim_trailing_white_space_on_save": true
+}
