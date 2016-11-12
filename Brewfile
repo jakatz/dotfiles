@@ -34,6 +34,7 @@ brew 'nyancat'
 # Apps
 cask 'aerial'
 cask 'alfred'
+cask 'appcleaner'
 cask 'atom'
 cask 'balsamiq-mockups'
 cask 'bartender'
@@ -45,7 +46,7 @@ cask 'cheatsheet'
 cask 'dash'
 cask 'dropbox'
 cask 'fantastical'
-cask 'firefox' 
+cask 'firefox'
 cask 'flux'
 cask 'google-chrome'
 cask 'google-drive'
@@ -73,4 +74,9 @@ cask 'qlstephen'
 cask 'font-source-code-pro-for-powerline'
 
 # Install Mac App Store apps
-# mas '1Password', id: 443987910
+mas 'DaisyDisk', id: 411643860
+mas 'Day One', id: 1055511498
+mas '1blocker', id: 1107421413
+mas 'bettersnaptool', id: 417375580,
+mas 'fantastical 2', id: 975937182
+
